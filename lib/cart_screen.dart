@@ -189,6 +189,7 @@ class _CartScreenState extends State<CartScreen> {
                                                   color: Colors.white,
                                                 ),
                                               ),
+
                                             ),
                                             Text(
                                               '$count',
