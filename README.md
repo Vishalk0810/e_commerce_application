@@ -31,6 +31,7 @@ samples, guidance on mobile development, and a full API reference.
    <img src = "https://github.com/Vishalk0810/e_commerce_application/assets/149374506/c9660227-2dac-4789-8c7c-ee7de0c6d3ab" width = 22%  height = 35%>
 
    <br>
+   <video src="https://github.com/Vishalk0810/e_commerce_application/assets/149374506/782b1734-a542-4fd3-9eac-8e39bc359628">
 
 
 
